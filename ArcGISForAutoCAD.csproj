@@ -932,6 +932,36 @@
     <EmbeddedResource Include="ESRI_TableViewer\FindReplace.resources" />
     <EmbeddedResource Include="ESRI_TableViewer\TableView.resources" />
     <EmbeddedResource Include="ESRI_TableViewer\ValueBox.resources" />
+    <EmbeddedResource Include="resourcesen-US\AFA.CulturePicker.resources" />
+    <EmbeddedResource Include="resourcesen-US\AFA.HiddenUpdateForm.resources" />
+    <EmbeddedResource Include="resourcesen-US\AFA.Properties.Resources.resources" />
+    <EmbeddedResource Include="resourcesen-US\AFA.Resources.AfaStrings.resources" />
+    <EmbeddedResource Include="resourcesen-US\AFA.Resources.ImageResources.resources" />
+    <EmbeddedResource Include="resourcesen-US\AFA.Resources.tpResources.resources" />
+    <EmbeddedResource Include="resourcesen-US\AFA.SplashScreen.resources" />
+    <EmbeddedResource Include="resourcesen-US\AFA.TableViewer.Properties.Resources.resources" />
+    <EmbeddedResource Include="resourcesen-US\AFA.Test.AsynchTest.frmGoogleData.resources" />
+    <EmbeddedResource Include="resourcesen-US\AFA.UI.ProgressWindow.resources" />
+    <EmbeddedResource Include="resourcesen-US\ArcGISForAutoCAD.g.resources" />
+    <EmbeddedResource Include="resourcesen-US\ESRI_TableViewer.FindReplace.resources" />
+    <EmbeddedResource Include="resourcesen-US\ESRI_TableViewer.TableView.resources" />
+    <EmbeddedResource Include="resourcesen-US\ESRI_TableViewer.ValueBox.resources" />
+    <EmbeddedResource Include="resourcesen-US\SelectByAttributes.SelectByAttributesForm.resources" />
+    <EmbeddedResource Include="resourcezh-CN\AFA.CulturePicker.zh-CN.resources" />
+    <EmbeddedResource Include="resourcezh-CN\AFA.HiddenUpdateForm.zh-CN.resources" />
+    <EmbeddedResource Include="resourcezh-CN\AFA.Properties.Resources.zh-CN.resources" />
+    <EmbeddedResource Include="resourcezh-CN\AFA.Resources.AfaStrings.zh-CN.resources" />
+    <EmbeddedResource Include="resourcezh-CN\AFA.Resources.ImageResources.zh-CN.resources" />
+    <EmbeddedResource Include="resourcezh-CN\AFA.Resources.tpResources.zh-CN.resources" />
+    <EmbeddedResource Include="resourcezh-CN\AFA.SplashScreen.zh-CN.resources" />
+    <EmbeddedResource Include="resourcezh-CN\AFA.TableViewer.Properties.Resources.zh-CN.resources" />
+    <EmbeddedResource Include="resourcezh-CN\AFA.Test.AsynchTest.frmGoogleData.zh-CN.resources" />
+    <EmbeddedResource Include="resourcezh-CN\AFA.UI.ProgressWindow.zh-CN.resources" />
+    <EmbeddedResource Include="resourcezh-CN\ArcGISForAutoCAD.g.zh-CN.resources" />
+    <EmbeddedResource Include="resourcezh-CN\ESRI_TableViewer.FindReplace.zh-CN.resources" />
+    <EmbeddedResource Include="resourcezh-CN\ESRI_TableViewer.TableView.zh-CN.resources" />
+    <EmbeddedResource Include="resourcezh-CN\ESRI_TableViewer.ValueBox.zh-CN.resources" />
+    <EmbeddedResource Include="resourcezh-CN\SelectByAttributes.SelectByAttributesForm.zh-CN.resources" />
     <EmbeddedResource Include="SelectByAttributes\SelectByAttributesForm.resources" />
   </ItemGroup>
   <ItemGroup>
