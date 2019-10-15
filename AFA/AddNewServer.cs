@@ -10,6 +10,7 @@ using System.Windows.Markup;
 
 namespace AFA
 {
+
     public class AddNewServer : Window, IComponentConnector
 	{
 		public bool Succeeded;
