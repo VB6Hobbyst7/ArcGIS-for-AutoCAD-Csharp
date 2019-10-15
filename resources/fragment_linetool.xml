@@ -1,0 +1,86 @@
+﻿<Tool Revision="18.0.1" option="0">
+  <ItemID idValue="{14F073CB-D0D1-44C0-85D9-675D28CFAF61}"/>
+  <Properties>
+    <ItemName>{0}</ItemName>
+    <Images option="0">
+      <Image cx="16" cy="16" resource="RCDATA_16_LINE" src="%ProgramBtnRes%"/>
+      <Image cx="32" cy="32" resource="RCDATA_32_LINE" src="%ProgramBtnRes%"/>
+    </Images>
+    <Description>{1}</Description>
+    <Time createdUniversalDateTime="2005-11-14T22:50:48" modifiedUniversalDateTime="2012-02-10T14:44:46"/>
+  </Properties>
+  <CustomData>
+    <AcRxClassInfo className="AcDbLine"/>
+    <ToolbarButton idButton="ID_Line"/>
+  </CustomData>
+  <Source/>
+  <ToolType>2</ToolType>
+  <Flyout enable="true">
+    <ShapePackage idValue="{4AFD3A7B-127C-468D-9DAD-D6D948BA8615}"/>
+    <CurrentShape idValue="{63B4EA09-B9B3-45BC-B864-E7A22A7EFAF2}"/>
+    <ActiveShapes>
+      <Shape idValue="{A7FC31D7-54EB-4CC8-B5D8-539D51522D1A}"/>
+      <Shape idValue="{BDC1E32E-909C-491B-8E43-A20A62962BC5}"/>
+      <Shape idValue="{63B4EA09-B9B3-45BC-B864-E7A22A7EFAF2}"/>
+    </ActiveShapes>
+  </Flyout>
+  <StockToolRef idValue="{2AE7120B-CEE4-47A5-9B50-EF9F3ADE24AC}"/>
+  <Data>
+    <GeneralProperties>
+      <Color>
+        <BasicPropInfo>
+          <PropValue unspecified="TRUE"/>
+        </BasicPropInfo>
+      </Color>
+      <Layer>
+        <BasicPropInfo>
+          <PropValue unspecified="FALSE" valueType="1" value="{2}"/>
+        </BasicPropInfo>
+      </Layer>
+      <Linetype>
+        <BasicPropInfo>
+          <PropValue unspecified="TRUE" valueType="1"/>
+        </BasicPropInfo>
+      </Linetype>
+      <LinetypeScale>
+        <BasicPropInfo>
+          <PropValue unspecified="TRUE" valueType="3" value="0"/>
+        </BasicPropInfo>
+      </LinetypeScale>
+      <PlotStyle>
+        <BasicPropInfo>
+          <PropValue unspecified="TRUE" valueType="1"/>
+        </BasicPropInfo>
+      </PlotStyle>
+      <LineWeight>
+        <BasicPropInfo>
+          <PropValue unspecified="TRUE" valueType="2" value="0"/>
+        </BasicPropInfo>
+      </LineWeight>
+      <Transparency>
+        <BasicPropInfo>
+          <PropValue unspecified="TRUE" valueType="1"/>
+        </BasicPropInfo>
+      </Transparency>
+      <Textstyle>
+        <BasicPropInfo>
+          <PropValue unspecified="TRUE" valueType="1"/>
+        </BasicPropInfo>
+      </Textstyle>
+      <Dimstyle>
+        <BasicPropInfo>
+          <PropValue unspecified="TRUE" valueType="1"/>
+        </BasicPropInfo>
+      </Dimstyle>
+      <Tablestyle>
+        <BasicPropInfo>
+          <PropValue unspecified="TRUE" valueType="1"/>
+        </BasicPropInfo>
+      </Tablestyle>
+    </GeneralProperties>
+    <Command>
+      <Macro><![CDATA[^C^C_line]]></Macro>
+    </Command>
+  </Data>
+</Tool>
+

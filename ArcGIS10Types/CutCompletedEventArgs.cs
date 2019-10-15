@@ -1,0 +1,36 @@
+using System;
+using System.CodeDom.Compiler;
+using System.ComponentModel;
+using System.Diagnostics;
+
+namespace ArcGIS10Types
+{
+	[GeneratedCode("wsdl", "2.0.50727.3038"), DesignerCategory("code"), DebuggerStepThrough]
+	public class CutCompletedEventArgs : AsyncCompletedEventArgs
+	{
+		private object[] results;
+
+		public Geometry[] Result
+		{
+			get
+			{
+				base.RaiseExceptionIfNecessary();
+				return (Geometry[])this.results[0];
+			}
+		}
+
+		public int[] CutIndexResult
+		{
+			get
+			{
+				base.RaiseExceptionIfNecessary();
+				return (int[])this.results[1];
+			}
+		}
+
+		internal CutCompletedEventArgs(object[] results, Exception exception, bool cancelled, object userState) : base(exception, cancelled, userState)
+		{
+			this.results = results;
+		}
+	}
+}

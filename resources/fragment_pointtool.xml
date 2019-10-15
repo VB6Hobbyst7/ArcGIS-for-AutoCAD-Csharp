@@ -1,0 +1,102 @@
+﻿<Tool Revision="18.0.1" option="31">
+  <ItemID idValue="{B00307D6-2AB6-402C-A7FE-EACAA1EAEE8D}"/>
+  <Properties>
+    <ItemName>**********BLOCK NAME***********************</ItemName>
+    <Images option="0">
+      <Image cx="32" cy="32" src=".\Images\**********BLOCK IMAGEPATH***********************.PNG"/>
+      <Image cx="64" cy="64" src=".\Images\**********BLOCK IMAGEPATH***********************.PNG"/>
+    </Images>
+    <Time createdUniversalDateTime="2010-09-03T17:00:49" modifiedUniversalDateTime="2010-09-03T17:00:49"/>
+  </Properties>
+  <Source/>
+  <ToolType>1</ToolType>
+  <StockToolRef idValue="{C9AB9290-FC5A-458B-AEB4-BDF9BE6A5E55}"/>
+  <Data>
+    <GeneralProperties>
+      <Color>
+        <BasicPropInfo>
+          <PropValue unspecified="FALSE"/>
+        </BasicPropInfo>
+        <CreateInfo>
+          <AcCmColor mRGB="3221225472"/>
+        </CreateInfo>
+      </Color>
+      <Layer>
+        <BasicPropInfo>
+          <PropValue unspecified="FALSE" valueType="1" value="****************BLock NAME in quotes*******************************"/>
+        </BasicPropInfo>
+        <CreateInfo>
+          <LayerTableRecord isNotPlotted="FALSE" lineWeight="-3">
+            <SymbolTableNameRecord>************BLOCK NAME******************</SymbolTableNameRecord>
+            <Linetype>
+              <BasicPropInfo>
+                <PropValue unspecified="FALSE" valueType="1" value="Continuous"/>
+              </BasicPropInfo>
+            </Linetype>
+            <Color>
+              <BasicPropInfo>
+                <PropValue unspecified="FALSE"/>
+              </BasicPropInfo>
+              <CreateInfo>
+                <AcCmColor mRGB="3271557210"/>
+              </CreateInfo>
+            </Color>
+          </LayerTableRecord>
+        </CreateInfo>
+      </Layer>
+      <Linetype>
+        <BasicPropInfo>
+          <PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+        </BasicPropInfo>
+      </Linetype>
+      <LinetypeScale>
+        <BasicPropInfo>
+          <PropValue unspecified="FALSE" valueType="3" value="1"/>
+        </BasicPropInfo>
+      </LinetypeScale>
+      <PlotStyle>
+        <BasicPropInfo>
+          <PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+        </BasicPropInfo>
+      </PlotStyle>
+      <LineWeight>
+        <BasicPropInfo>
+          <PropValue unspecified="FALSE" valueType="2" value="-1"/>
+        </BasicPropInfo>
+      </LineWeight>
+      <Transparency>
+        <BasicPropInfo>
+          <PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+        </BasicPropInfo>
+      </Transparency>
+      <Textstyle>
+        <BasicPropInfo>
+          <PropValue unspecified="TRUE" valueType="1"/>
+        </BasicPropInfo>
+      </Textstyle>
+      <Dimstyle>
+        <BasicPropInfo>
+          <PropValue unspecified="TRUE" valueType="1"/>
+        </BasicPropInfo>
+      </Dimstyle>
+      <Tablestyle>
+        <BasicPropInfo>
+          <PropValue unspecified="TRUE" valueType="1"/>
+        </BasicPropInfo>
+      </Tablestyle>
+    </GeneralProperties>
+    <Block>
+      <BlockType>1</BlockType>
+      <BlockTypeEx>0</BlockTypeEx>
+      <BlockName>**********BLOCK NAME*************</BlockName>
+      <SourceFile>***************SOURCE FILE*******************</SourceFile>
+      <InsertAs>1</InsertAs>
+      <XrefType>0</XrefType>
+      <Scale>1</Scale>
+      <AuxiliaryScale>NONE</AuxiliaryScale>
+      <Rotation>0</Rotation>
+      <PromptRotation>0</PromptRotation>
+      <Explode>0</Explode>
+    </Block>
+  </Data>
+</Tool>

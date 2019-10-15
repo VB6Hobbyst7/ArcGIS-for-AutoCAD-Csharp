@@ -1,0 +1,31 @@
+﻿<Catalog option="0">
+  <ItemID idValue="{50C29E33-6DBD-496f-B376-8FEB45E29EBF}"/>
+  <Properties>
+    <ItemName>ArcGIS</ItemName>
+    <Images option="0"/>
+    <Description>ArcGIS Feature Service Palette</Description>
+    <ToolTip>Collection of ArcGIS tools for editing feature services.</ToolTip>
+    <Time createdUniversalDateTime="2012-02-14T19:30:47" modifiedUniversalDateTime="2012-02-14T19:30:47"/>
+  </Properties>
+  <CustomData>
+    <Translation status="1"/>
+  </CustomData>
+  <Source/>
+  <Tools/>
+  <Palettes>
+    <Palette option="0">
+      <ItemID idValue="{7B88FF54-6390-43F8-96FC-C691BAE51209}"/>
+      <Url href="Palettes\Feature Services Palette_7B88FF54-6390-43F8-96FC-C691BAE51209.atc"/>
+      <Properties>
+        <ItemName>Feature Services</ItemName>
+        <Images option="0"/>
+      </Properties>
+      <Source/>
+    </Palette>
+  </Palettes>
+  <Packages/>
+  <Categories/>
+  <StockTools/>
+  <Catalogs/>
+</Catalog>
+

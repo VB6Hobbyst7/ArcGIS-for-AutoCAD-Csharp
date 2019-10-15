@@ -1,0 +1,77 @@
+﻿<Tool Revision="18.0.1" option="0">
+  <ItemID idValue="{35392C41-F580-4789-AA63-EED8B97AADC5}"/>
+  <Properties>
+    <ItemName>Area Features</ItemName>
+    <Images option="0"/>
+    <Description>Creates an Area Feature</Description>
+    <Time createdUniversalDateTime="2005-11-14T22:48:46" modifiedUniversalDateTime="2012-02-27T11:44:01"/>
+  </Properties>
+  <Source/>
+  <ToolType>2</ToolType>
+  <Flyout enable="true">
+    <ShapePackage idValue="{4AFD3A7B-127C-468D-9DAD-D6D948BA8615}"/>
+    <CurrentShape idValue="{63B4EA09-B9B3-45BC-B864-E7A22A7EFAF2}"/>
+    <ActiveShapes>
+      <Shape idValue="{B06D26A3-14EE-48F9-B9E2-905C069E77C1}"/>
+      <Shape idValue="{3AE94F5D-C36B-4C33-9728-002825F81AC9}"/>
+      <Shape idValue="{63B4EA09-B9B3-45BC-B864-E7A22A7EFAF2}"/>
+      <Shape idValue="{9E94EFA7-423D-4CED-AC1C-889A7BE3906B}"/>
+    </ActiveShapes>
+  </Flyout>
+  <StockToolRef idValue="{2AE7120B-CEE4-47A5-9B50-EF9F3ADE24AC}"/>
+  <Data>
+    <GeneralProperties>
+      <Color>
+        <BasicPropInfo>
+          <PropValue unspecified="FALSE"/>
+        </BasicPropInfo>
+        <CreateInfo>
+          <AcCmColor mRGB="3221225472"/>
+        </CreateInfo>
+      </Color>
+      <Layer>
+        <BasicPropInfo>
+          <PropValue unspecified="FALSE" valueType="1" value="***Layer Name***"/>
+        </BasicPropInfo>
+      </Layer>
+      <Linetype>
+        <BasicPropInfo>
+          <PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+        </BasicPropInfo>
+      </Linetype>
+      <LinetypeScale>
+        <BasicPropInfo>
+          <PropValue unspecified="TRUE" valueType="3" value="0"/>
+        </BasicPropInfo>
+      </LinetypeScale>
+      <PlotStyle>
+        <BasicPropInfo>
+          <PropValue unspecified="FALSE" valueType="1" value="ByLayer"/>
+        </BasicPropInfo>
+      </PlotStyle>
+      <LineWeight>
+        <BasicPropInfo>
+          <PropValue unspecified="FALSE" valueType="2" value="-1"/>
+        </BasicPropInfo>
+      </LineWeight>
+      <Textstyle>
+        <BasicPropInfo>
+          <PropValue unspecified="TRUE" valueType="1"/>
+        </BasicPropInfo>
+      </Textstyle>
+      <Dimstyle>
+        <BasicPropInfo>
+          <PropValue unspecified="TRUE" valueType="1"/>
+        </BasicPropInfo>
+      </Dimstyle>
+      <Tablestyle>
+        <BasicPropInfo>
+          <PropValue unspecified="TRUE" valueType="1"/>
+        </BasicPropInfo>
+      </Tablestyle>
+    </GeneralProperties>
+    <Command>
+      <Macro><![CDATA[^C^C_circle]]></Macro>
+    </Command>
+  </Data>
+</Tool>
